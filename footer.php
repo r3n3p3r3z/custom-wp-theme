@@ -74,7 +74,7 @@
 					<div class="column-container">
 						<div class="column-5-12">
 							<div class="gutter">
-								<p class="text-left"><?php echo sprintf( __('Copyright &copy; 2015 %s All Rights Reserved.', 'causes'), get_bloginfo('name') );?></p>
+								<p class="text-left"><?php echo sprintf( __('Copyright &copy; 2017 %s All Rights Reserved.', 'causes'), get_bloginfo('name') );?></p>
 							</div>
 						</div>
 						<div class="column-7-12">
