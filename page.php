@@ -24,15 +24,15 @@
 										<?php the_content(); ?>
 									</article>
 									<p><?php posts_nav_link(); ?></p>
-									<div class="padinate-page"><?php wp_link_pages(); ?></div> 	 									
+									<div class="padinate-page"><?php wp_link_pages(); ?></div>
 									<?php comments_template(); ?>
 								</div>
 							</div>
 						</div>
-						<div class="column-4-12 right">
+<!--						<div class="column-4-12 right">
 							<div class="gutter">
 								<?php  get_sidebar(); ?>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
